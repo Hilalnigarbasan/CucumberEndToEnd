@@ -68,7 +68,6 @@ public class MedunnaRoomStepDefs {
 
     @When("click on Save button")
     public void click_on_save_button() {
-
         medunnaRoomPage.saveSubmitButton.click();
     }
 
